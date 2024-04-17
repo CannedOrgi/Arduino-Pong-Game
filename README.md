@@ -25,6 +25,7 @@ The Arduino Mega serves as the primary controller, responsible for executing the
  complex tasks.
 
  ## Files
- UNO_Pong: Code for Arduino UNO. The UNO receives the button inputs and controls the buzzer.
+ UNO_Pong: Code for Arduino UNO. The UNO receives the button inputs and controls the buzzer.\n
+ 
  MegaCodePong: Code for the Arduino Mega 2560. Controls the main game logic and TFT display commands.
  
