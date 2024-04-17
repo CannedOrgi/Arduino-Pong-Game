@@ -1,4 +1,6 @@
 # Arduino-Pong-Game
+
+## Introduction
 An Arduino-based Pong game that has two modes to play- Breakout and Pong.
 
 In this project, I have created a dual-game system featuring the classic games Pong and Breakout, utilizing
@@ -21,3 +23,8 @@ The Arduino Mega serves as the primary controller, responsible for executing the
  exemplifies a practical application of serial communication between different microcontrollers, illustrating an
  essential technique in embedded systems design where multiple processors work in tandem to accomplish more
  complex tasks.
+
+ ## Files
+ UNO_Pong: Code for Arduino UNO. The UNO receives the button inputs and controls the buzzer.
+ MegaCodePong: Code for the Arduino Mega 2560. Controls the main game logic and TFT display commands.
+ 
